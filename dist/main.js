@@ -1,1 +1,1 @@
-(()=>{"use strict";document.body.appendChild(function(){const t=document.createElement("div");return t.textContent="Hi! My name is "+"Codify",t}())})();
+(()=>{"use strict";console.log("Hello, Odinite!")})();
